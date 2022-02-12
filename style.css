@@ -1,0 +1,89 @@
+
+h1{
+    text-align: center; 
+    color: #722f37 ;
+    font-family: verdana;
+    font-size: 55px;
+    padding: 0px;
+  }
+  #image{      
+      position: relative;
+      top: 50px;
+      left: 270px;
+      max-width: 500px;
+      display: block;  
+      text-align: center;
+  }
+  #img-caption{git
+    font-size: 15px;
+    margin: 55px;
+    text-align: center;
+    
+  }
+  .thin-white-border {
+      border-color: white;
+      border-width: 20px;
+      border-style: solid;
+    }
+  h2 {
+    font-family: verdana; 
+    font-size: 16px;
+    text-align: center;
+    color: #722f37 ;
+  }
+  p {
+    text-align: center;
+    font-family: arial;
+    font-size: 26px;
+    margin-top: -5px;
+  }
+   body{
+    background-image: url(https://th.bing.com/th/id/R.637950ab0cb05f81ea73fd3adf702b64?rik=0AIJd6thdvGyvA&pid=ImgRaw&r=0);
+    background-repeat: repeat;
+    padding: 50px 70px 50px 60px;
+    background-size: 1350px;
+  }
+  #back-paper{
+    background: #c79985;
+    margin: 30px 40px 30px 40px; 
+    opacity: 0.90;
+    padding: 15px 30px 15px 10px; 
+  }
+   #tribute-info {
+      font-family: arial;
+      background-color: #f3f9f9;
+      width: 75%;
+      margin: 100px 150px 0px 150px;
+      position: 0px;
+      padding: 20px 0px 0px 0px;
+      
+  }
+  .tb{
+    letter-spacing: 3px ;
+    padding-left: 3px;
+    padding-right: 6px;
+  }
+  h3{
+    font-family: arial;
+    text-align: center;
+    font-size: 25px;
+  }
+  ul {
+    padding: 20px 150px 20px 150px;
+    font-family: arial;
+    font-size: 15px;
+  }
+  #link{
+    text-align: center;
+    font-family: consolas;
+    font-size: 20px;
+    padding: 20px;
+  }
+  #firma{
+    font-size: 16px;
+    font-family: calibri;
+    text-align: right;
+    color: #fff;
+    : ;
+  }
+    
